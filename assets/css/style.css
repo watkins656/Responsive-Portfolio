@@ -228,6 +228,9 @@ body {
    .main-section{width:100%}
    .auth-image{width:100%}
    nav{
+     float:none;
+     width:60%;
+     margin:auto;
      /* Cant figure out what goes here to make it center */
     }
  }
